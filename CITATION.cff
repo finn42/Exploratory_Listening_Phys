@@ -7,6 +7,6 @@ authors:
 title: "Exploratory Listening Physiology Analysis"
 version: 1.0.0
 identifiers:
-  - type: 
-    value: 
+  - type: dio
+    value: 10.5281/zenodo.15458096
 date-released: 2025-05-18
