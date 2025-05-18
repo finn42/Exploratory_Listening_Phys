@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use or derived from this code, please cite it as below."
+authors:
+  - family-names: Upham
+    given-names: Finn
+    orcid: https://orcid.org/0000-0002-9948-2024
+title: "Exploratory Listening Physiology Analysis"
+version: 1.0.0
+identifiers:
+  - type: 
+    value: 
+date-released: 2025-05-17
