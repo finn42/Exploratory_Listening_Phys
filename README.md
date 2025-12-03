@@ -3,7 +3,7 @@
 
 This repository shares extracted data features and code for analysing and ploting the quantitative descriptors of music and physiological measurements of musicians and audience members reported in the paper.
 
-Haswell-Martin, R., Upham, F., Høffding, S., Nielsen, N. (2025) "Embodied, Exploratory Listening in the Concert Hall." Behavioral Sciences 15, x
+Haswell-Martin, R., Upham, F., Høffding, S., Nielsen, N. (2025) "Embodied, Exploratory Listening in the Concert Hall." Behavioral Sciences 15(5), 710; [https://doi.org/10.3390/bs15050710](https://doi.org/10.3390/bs15050710)
 
 
 The data are excerpts of the [Bodies in Concert](https://www.uio.no/ritmo/english/projects/Bodies-in-Concert/) research project at the RITMO Center of excellence in Rhythm, Time, and Meter. This project includes multiple orchestral concert research projects, collaborations with institutions to recording concurrent physiological signals and performance information from musicians on stage and live attending audiences. The data included here are from concert experiments conducted in 2024, one in Stavanger and the other in Oslo. Audience member participants were university music students recruited to attend and report on their experience or volunteers from the ticketed public (Oslo only). Featured participants in the case studies were music students that were also interviewed, and information from that data collection is reported else where. 
